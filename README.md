@@ -1,12 +1,10 @@
 # Library-Management-System
 
-The project aims and objectives that will be achieved after completion of
-this project are
-discussed in this subchapter. The aims and objectives are as follows:
-Book reading.
-A search column to search availability of books.
-Facility to download required book.
-Video tutorial for students.
-An Admin login page where admin can add books, videos or page
-sources
-Open link for Learning Websites
+E-Library Management System is an application which refers to library systems which are
+generally small or medium in size. It is used by librarian to manage the library using a
+computerized system where he/she can add new books, videos and Page sources.
+
+Books and student maintenance modules are also included in this system which would keep
+track of the students using the library and also a detailed description about the books a library
+contains. With this computerized system there will be no loss of book record or member record
+which generally happens when a non-computerized system is used. 
